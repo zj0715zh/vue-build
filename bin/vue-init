@@ -114,7 +114,8 @@ function run () {
     checkVersion(function () {
       if (!hasSlash) {
         // use official templates
-        var officialTemplate = 'vuejs-templates/' + template
+        // var officialTemplate = 'vuejs-templates/' + template
+        var officialTemplate = 'zj0715zh/' + template
         if (template.indexOf('#') !== -1) {
           downloadAndGenerate(officialTemplate)
         } else {
