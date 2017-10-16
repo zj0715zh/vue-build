@@ -1,5 +1,5 @@
 {
-  "name": "vue-build",
+  "name": "ppd-build",
   "version": "1.0.0",
   "description": "A Simple Generator For Vue.js projects.",
   "preferGlobal": true,
