@@ -5,6 +5,7 @@
   "preferGlobal": true,
   "bin": {
     "ppd": "bin/vue",
+    "ppd-love": "bin/vue-love",
     "ppd-init": "bin/vue-init",
     "ppd-list": "bin/vue-list",
     "ppd-build": "bin/vue-build"
